@@ -1,0 +1,14 @@
+﻿  System.cpp
+C:\Users\mohamed ashraf\Desktop\LATESTTT\Vaccine_System\System.cpp(941,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mohamed ashraf\Desktop\LATESTTT\Vaccine_System\System.cpp(948,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mohamed ashraf\Desktop\LATESTTT\Vaccine_System\System.cpp(955,53): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\mohamed ashraf\Desktop\LATESTTT\Vaccine_System\System.cpp(956,58): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\mohamed ashraf\Desktop\LATESTTT\Vaccine_System\System.cpp(1028,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mohamed ashraf\Desktop\LATESTTT\Vaccine_System\System.cpp(1042,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mohamed ashraf\Desktop\LATESTTT\Vaccine_System\System.cpp(1693,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mohamed ashraf\Desktop\LATESTTT\Vaccine_System\System.cpp(1740,12): warning C4804: '<=': unsafe use of type 'bool' in operation
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 871 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Vaccine_System.vcxproj -> C:\Users\mohamed ashraf\Desktop\LATESTTT\Release\Vaccine_System.exe
