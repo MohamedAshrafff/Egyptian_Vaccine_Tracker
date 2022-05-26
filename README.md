@@ -41,5 +41,6 @@
    ![Screenshot (144)](https://user-images.githubusercontent.com/96030527/170591615-cc99cf6e-0e90-4678-b0a4-2c2ad5b65198.png)
    #### Display Data Function
    ![Screenshot (143)](https://user-images.githubusercontent.com/96030527/170591583-83847fe7-40f1-44c4-8083-ec71ab70f2fc.png)
-   #### Display of all Users in System
-   ![Screenshot (148)](https://user-images.githubusercontent.com/96030527/170592360-bff25bf9-ae66-4208-817c-df3b4068dc97.png)
+   #### Display all Users in System
+   ![Screenshot 2022-05-27 010440](https://user-images.githubusercontent.com/96030527/170593442-633a4bf2-6c13-4f11-b051-217ce4c67991.png)
+
